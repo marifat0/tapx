@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Tapestry-Module-Classes: com.howardlewisship.tapx.core.services.CoreModu
+ le
+
